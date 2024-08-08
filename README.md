@@ -1,2 +1,2 @@
 # Excel Projects
-Excel spreadsheets to prepare and analyse data.
+Excel spreadsheets for preparing and analysing data.
